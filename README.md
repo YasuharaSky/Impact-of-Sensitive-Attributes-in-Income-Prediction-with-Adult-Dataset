@@ -1,10 +1,8 @@
----
-
 ## 1. Project Background and Dataset Overview
 
 ### Project Background
 
-* Today, we discuss how to leverage data intervention techniques and methods from the literature to improve model fairness across different groups (e.g., gender).
+* We discuss how to leverage data intervention techniques and methods from the literature to improve model fairness across different groups (e.g., gender).
 * The task objective is to predict whether income exceeds 50K based on demographic and economic features, while focusing on performance differences between genders.
 
 ### Dataset Overview
