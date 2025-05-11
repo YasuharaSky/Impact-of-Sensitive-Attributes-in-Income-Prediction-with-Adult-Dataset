@@ -175,7 +175,6 @@
     * Male TPR: 0.6121
     * Female TPR: 0.6102
 
----
 
 ## 8. Overall Comparison and Discussion
 
